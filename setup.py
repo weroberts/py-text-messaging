@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example_pkg",
-    version="0.0.1",
+    name="textMessaging",
+    version="0.0.2",
     author="Will Roberts",
     author_email="willeroberts3@gmail.com",
     description="Python package to send text messages via smtp.",
